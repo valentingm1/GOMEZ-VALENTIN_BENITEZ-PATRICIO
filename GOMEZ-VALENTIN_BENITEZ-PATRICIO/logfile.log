@@ -62,3 +62,39 @@ Invalid value "2" for parameter "columnIndex" [90008-224]
 [2023-10-26 22:56:17] [ INFO ] [OdontologoDaoH2:46] Tuvimos un problema
 [2023-10-26 22:56:17] [ ERROR] [OdontologoDaoH2:47] Valor Invalido "2" para el parametro "columnIndex"
 Invalid value "2" for parameter "columnIndex" [90008-224]
+[2023-10-26 23:02:27] [ ERROR] [OdontologoDaoH2:40] Parametro "#2" no está fijado
+Parameter "#2" is not set; SQL statement:
+INSERT INTO ODONTOLOGOS (NROMATRICULA,NOMBRE,APELLIDO) VALUES(?, ?, ?) [90012-224]
+[2023-10-26 23:02:27] [ INFO ] [OdontologoDaoH2:45] Tuvimos un problema
+[2023-10-26 23:02:27] [ ERROR] [OdontologoDaoH2:46] Parametro "#2" no está fijado
+Parameter "#2" is not set; SQL statement:
+INSERT INTO ODONTOLOGOS (NROMATRICULA,NOMBRE,APELLIDO) VALUES(?, ?, ?) [90012-224]
+[2023-10-26 23:03:03] [ ERROR] [OdontologoDaoH2:41] Parametro "#2" no está fijado
+Parameter "#2" is not set; SQL statement:
+INSERT INTO ODONTOLOGOS (NROMATRICULA,NOMBRE,APELLIDO) VALUES(?, ?, ?) [90012-224]
+[2023-10-26 23:03:03] [ INFO ] [OdontologoDaoH2:46] Tuvimos un problema
+[2023-10-26 23:03:03] [ ERROR] [OdontologoDaoH2:47] Parametro "#2" no está fijado
+Parameter "#2" is not set; SQL statement:
+INSERT INTO ODONTOLOGOS (NROMATRICULA,NOMBRE,APELLIDO) VALUES(?, ?, ?) [90012-224]
+[2023-10-26 23:03:21] [ ERROR] [OdontologoDaoH2:41] Valor Invalido "2" para el parametro "columnIndex"
+Invalid value "2" for parameter "columnIndex" [90008-224]
+[2023-10-26 23:03:21] [ INFO ] [OdontologoDaoH2:46] Tuvimos un problema
+[2023-10-26 23:03:21] [ ERROR] [OdontologoDaoH2:47] Valor Invalido "2" para el parametro "columnIndex"
+Invalid value "2" for parameter "columnIndex" [90008-224]
+[2023-10-26 23:04:58] [ ERROR] [OdontologoDaoH2:41] Parametro "#3" no está fijado
+Parameter "#3" is not set; SQL statement:
+INSERT INTO ODONTOLOGOS (NROMATRICULA,NOMBRE,APELLIDO) VALUES(?, ?, ?) [90012-224]
+[2023-10-26 23:04:58] [ INFO ] [OdontologoDaoH2:46] Tuvimos un problema
+[2023-10-26 23:04:58] [ ERROR] [OdontologoDaoH2:47] Parametro "#3" no está fijado
+Parameter "#3" is not set; SQL statement:
+INSERT INTO ODONTOLOGOS (NROMATRICULA,NOMBRE,APELLIDO) VALUES(?, ?, ?) [90012-224]
+[2023-10-26 23:05:13] [ ERROR] [OdontologoDaoH2:41] Valor Invalido "2" para el parametro "columnIndex"
+Invalid value "2" for parameter "columnIndex" [90008-224]
+[2023-10-26 23:05:13] [ INFO ] [OdontologoDaoH2:46] Tuvimos un problema
+[2023-10-26 23:05:13] [ ERROR] [OdontologoDaoH2:47] Valor Invalido "2" para el parametro "columnIndex"
+Invalid value "2" for parameter "columnIndex" [90008-224]
+[2023-10-26 23:07:32] [ ERROR] [OdontologoDaoH2:41] Valor Invalido "2" para el parametro "columnIndex"
+Invalid value "2" for parameter "columnIndex" [90008-224]
+[2023-10-26 23:07:32] [ INFO ] [OdontologoDaoH2:46] Tuvimos un problema
+[2023-10-26 23:07:32] [ ERROR] [OdontologoDaoH2:47] Valor Invalido "2" para el parametro "columnIndex"
+Invalid value "2" for parameter "columnIndex" [90008-224]

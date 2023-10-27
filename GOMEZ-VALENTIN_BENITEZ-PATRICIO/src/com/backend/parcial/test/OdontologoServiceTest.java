@@ -36,7 +36,7 @@ public class OdontologoServiceTest {
     public void deberiaAgregarOdontologoEnMiH2(){
         odontologoService = new OdontologoService(new OdontologoDaoH2());
 
-        Odontologo OdontologoAPersistir = new Odontologo((long)12121212,"Juan","Perez");
+        Odontologo OdontologoAPersistir = new Odontologo(12121212l,"Juan","Perez");
 
         Odontologo OdontologoPersistido = odontologoService.registrar(OdontologoAPersistir);
 
