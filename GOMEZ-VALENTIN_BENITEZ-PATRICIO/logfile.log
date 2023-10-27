@@ -1,0 +1,64 @@
+[2023-10-26 22:35:43] [ ERROR] [OdontologoDaoH2:41] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NROMATRICULA, NOMBRE, APELLIDO) VALUES(?, ?, ?) [42104-224]
+[2023-10-26 22:35:43] [ INFO ] [OdontologoDaoH2:46] Tuvimos un problema
+[2023-10-26 22:35:43] [ ERROR] [OdontologoDaoH2:47] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NROMATRICULA, NOMBRE, APELLIDO) VALUES(?, ?, ?) [42104-224]
+[2023-10-26 22:37:57] [ ERROR] [OdontologoDaoH2:43] Valor Invalido "2" para el parametro "columnIndex"
+Invalid value "2" for parameter "columnIndex" [90008-224]
+[2023-10-26 22:37:57] [ INFO ] [OdontologoDaoH2:48] Tuvimos un problema
+[2023-10-26 22:37:57] [ ERROR] [OdontologoDaoH2:49] Valor Invalido "2" para el parametro "columnIndex"
+Invalid value "2" for parameter "columnIndex" [90008-224]
+[2023-10-26 22:41:44] [ ERROR] [OdontologoDaoH2:43] Valor Invalido "2" para el parametro "columnIndex"
+Invalid value "2" for parameter "columnIndex" [90008-224]
+[2023-10-26 22:41:44] [ INFO ] [OdontologoDaoH2:48] Tuvimos un problema
+[2023-10-26 22:41:44] [ ERROR] [OdontologoDaoH2:49] Valor Invalido "2" para el parametro "columnIndex"
+Invalid value "2" for parameter "columnIndex" [90008-224]
+[2023-10-26 22:42:41] [ ERROR] [OdontologoDaoH2:43] Parametro "#2" no está fijado
+Parameter "#2" is not set; SQL statement:
+INSERT INTO ODONTOLOGOS (NROMATRICULA, NOMBRE, APELLIDO) VALUES(?, ?, ?) [90012-224]
+[2023-10-26 22:42:41] [ INFO ] [OdontologoDaoH2:48] Tuvimos un problema
+[2023-10-26 22:42:41] [ ERROR] [OdontologoDaoH2:49] Parametro "#2" no está fijado
+Parameter "#2" is not set; SQL statement:
+INSERT INTO ODONTOLOGOS (NROMATRICULA, NOMBRE, APELLIDO) VALUES(?, ?, ?) [90012-224]
+[2023-10-26 22:43:24] [ ERROR] [OdontologoDaoH2:43] Valor Invalido "2" para el parametro "columnIndex"
+Invalid value "2" for parameter "columnIndex" [90008-224]
+[2023-10-26 22:43:24] [ INFO ] [OdontologoDaoH2:48] Tuvimos un problema
+[2023-10-26 22:43:24] [ ERROR] [OdontologoDaoH2:49] Valor Invalido "2" para el parametro "columnIndex"
+Invalid value "2" for parameter "columnIndex" [90008-224]
+[2023-10-26 22:47:54] [ ERROR] [OdontologoDaoH2:43] Valor Invalido "2" para el parametro "columnIndex"
+Invalid value "2" for parameter "columnIndex" [90008-224]
+[2023-10-26 22:47:54] [ INFO ] [OdontologoDaoH2:48] Tuvimos un problema
+[2023-10-26 22:47:54] [ ERROR] [OdontologoDaoH2:49] Valor Invalido "2" para el parametro "columnIndex"
+Invalid value "2" for parameter "columnIndex" [90008-224]
+[2023-10-26 22:48:17] [ ERROR] [OdontologoDaoH2:43] Valor Invalido "2" para el parametro "columnIndex"
+Invalid value "2" for parameter "columnIndex" [90008-224]
+[2023-10-26 22:48:17] [ INFO ] [OdontologoDaoH2:48] Tuvimos un problema
+[2023-10-26 22:48:17] [ ERROR] [OdontologoDaoH2:49] Valor Invalido "2" para el parametro "columnIndex"
+Invalid value "2" for parameter "columnIndex" [90008-224]
+[2023-10-26 22:49:03] [ ERROR] [OdontologoDaoH2:43] Valor Invalido "2" para el parametro "columnIndex"
+Invalid value "2" for parameter "columnIndex" [90008-224]
+[2023-10-26 22:49:03] [ INFO ] [OdontologoDaoH2:48] Tuvimos un problema
+[2023-10-26 22:49:03] [ ERROR] [OdontologoDaoH2:49] Valor Invalido "2" para el parametro "columnIndex"
+Invalid value "2" for parameter "columnIndex" [90008-224]
+[2023-10-26 22:52:18] [ ERROR] [OdontologoDaoH2:41] Valor Invalido "2" para el parametro "columnIndex"
+Invalid value "2" for parameter "columnIndex" [90008-224]
+[2023-10-26 22:52:18] [ INFO ] [OdontologoDaoH2:46] Tuvimos un problema
+[2023-10-26 22:52:18] [ ERROR] [OdontologoDaoH2:47] Valor Invalido "2" para el parametro "columnIndex"
+Invalid value "2" for parameter "columnIndex" [90008-224]
+[2023-10-26 22:53:07] [ ERROR] [OdontologoDaoH2:41] La cantidad de columnas no coincide
+Column count does not match; SQL statement:
+INSERT INTO ODONTOLOGOS VALUES(?, ?, ?) [21002-224]
+[2023-10-26 22:53:07] [ INFO ] [OdontologoDaoH2:46] Tuvimos un problema
+[2023-10-26 22:53:07] [ ERROR] [OdontologoDaoH2:47] La cantidad de columnas no coincide
+Column count does not match; SQL statement:
+INSERT INTO ODONTOLOGOS VALUES(?, ?, ?) [21002-224]
+[2023-10-26 22:54:20] [ ERROR] [OdontologoDaoH2:41] Valor Invalido "2" para el parametro "columnIndex"
+Invalid value "2" for parameter "columnIndex" [90008-224]
+[2023-10-26 22:54:20] [ INFO ] [OdontologoDaoH2:46] Tuvimos un problema
+[2023-10-26 22:54:20] [ ERROR] [OdontologoDaoH2:47] Valor Invalido "2" para el parametro "columnIndex"
+Invalid value "2" for parameter "columnIndex" [90008-224]
+[2023-10-26 22:56:17] [ ERROR] [OdontologoDaoH2:41] Valor Invalido "2" para el parametro "columnIndex"
+Invalid value "2" for parameter "columnIndex" [90008-224]
+[2023-10-26 22:56:17] [ INFO ] [OdontologoDaoH2:46] Tuvimos un problema
+[2023-10-26 22:56:17] [ ERROR] [OdontologoDaoH2:47] Valor Invalido "2" para el parametro "columnIndex"
+Invalid value "2" for parameter "columnIndex" [90008-224]
